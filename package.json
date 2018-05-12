@@ -1,0 +1,23 @@
+{
+  "name": "BC-14_Eat-Da-Burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaitlinEverett/BC-14_Eat-Da-Burger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaitlinEverett/BC-14_Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/CaitlinEverett/BC-14_Eat-Da-Burger#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}

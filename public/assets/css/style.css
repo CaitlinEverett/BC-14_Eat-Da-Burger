@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	position: relative;
+	font-size:2rem;
+}
+
+
+h1, h2, h3{
+	font-family: 'Pangolin', cursive;
+}
+
+.table-row{
+	height: 60px;
+}
+
+h1 {
+	font-size: 15rem;
+	text-align: center;
+}
+
+.devour, .submitBurg{
+	font-family: 'Pangolin', cursive;
+	font-size: 2.5rem;
+	border: 2px solid black;
+	background-color: #fff;
+	border-radius: .4rem;
+	margin-left: 40px;
+}
+
+.submitBurg{
+	width: 100%;
+	margin-left: 0px;
+}
+
+#mainstuff{
+	margin-top:60px;
+}
+
+#newBurgerName{
+	width:100%;
+	border:2px solid black;
+	border-radius: .4rem;
+	padding:20px;
+}
